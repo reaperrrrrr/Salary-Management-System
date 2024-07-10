@@ -6,3 +6,4 @@ adding, deleting, searching, editing operation were implemented. All the data sa
 Required :
 
 DEV C++.
+![001](https://github.com/reaperrrrrr/Salary-Management-System/assets/149355613/9873376b-c274-4a38-b220-8470e04dd43c)
